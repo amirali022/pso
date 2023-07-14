@@ -2,6 +2,7 @@
 
 - Standard PSO
 - Clustering with PSO
+- Feature Selection with PSO
 
 #### Requirements
 
@@ -11,6 +12,7 @@
 #### Libraries
 
 - numpy
+- pandas
 - matplotlib
 - PIL (pillow)
 - sklearn (scikit-learn)
