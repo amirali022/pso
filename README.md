@@ -3,6 +3,7 @@
 - Standard PSO
 - Clustering with PSO
 - Feature Selection with PSO
+- Auto PSO
 
 #### Requirements
 
